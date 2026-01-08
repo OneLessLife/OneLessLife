@@ -3,7 +3,7 @@
 I'm a passionate full-stack developer who loves building clean, scalable, and user-friendly web applications. I specialize in both front-end and back-end development, with experience across modern tech stacks.
 
 ## 🚀 Tech Stack
-**Frontend:** HTML5, CSS3, JavaScript, React, Vue.js, Tailwind, Bootstrap  
+**Frontend:** HTML5, CSS3, AngularJS, JavaScript, NextJS, React, Vue.js, Tailwind, PHP , PHP Phalcon, Bootstrap  
 **Backend:** Node.js, Express.js, PHP, Laravel, Python (Flask/Django)  
 **Databases:** MySQL, MongoDB, PostgreSQL  
 **Other Tools:** Git, GitHub, Docker, REST APIs, GraphQL, WordPress, Webpack
